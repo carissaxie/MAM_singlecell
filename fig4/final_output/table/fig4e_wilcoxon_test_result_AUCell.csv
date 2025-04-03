@@ -1,0 +1,109 @@
+,TF,tissue,.y.,group1,group2,p,p.adj,p.format,p.signif,method
+1,JDP2(-),skin,value,Homeostatic,Trans,0.027741287,0.028,0.02774,*,Wilcoxon
+2,JDP2(-),skin,value,SPP1+MAM-,SPP1+MAM+,0.006077847,0.012,0.00608,**,Wilcoxon
+3,KLF3(-),skin,value,SPP1+MAM-,SPP1+MAM+,0.0023987,0.0093,0.0024,**,Wilcoxon
+4,KLF3(-),endo,value,Homeostatic,SPP1+MAM-,0.002328548,0.0093,0.00233,**,Wilcoxon
+5,CEBPD(-),skin,value,SPP1+MAM-,SPP1+MAM+,0.001088452,0.0054,0.00109,**,Wilcoxon
+6,CEBPD(-),heart,value,Homeostatic,Trans,0.000433002,0.0026,0.00043,***,Wilcoxon
+7,JDP2(-),kidney,value,Trans,SPP1+MAM+,5.24E-05,0.00037,5.20E-05,****,Wilcoxon
+8,KLF3(-),liver,value,Homeostatic,Trans,6.56E-06,5.20E-05,6.60E-06,****,Wilcoxon
+9,CEBPD(-),skin,value,Homeostatic,SPP1+MAM+,3.03E-06,2.70E-05,3.00E-06,****,Wilcoxon
+10,JDP2(-),skin,value,Homeostatic,SPP1+MAM+,1.18E-06,1.50E-05,1.20E-06,****,Wilcoxon
+11,JDP2(-),skin,value,Trans,SPP1+MAM+,1.20E-06,1.50E-05,1.20E-06,****,Wilcoxon
+12,KLF3(-),skin,value,Homeostatic,SPP1+MAM+,1.31E-06,1.50E-05,1.30E-06,****,Wilcoxon
+13,KLF3(-),skin,value,Trans,SPP1+MAM+,1.10E-06,1.50E-05,1.10E-06,****,Wilcoxon
+14,CEBPD(-),skin,value,Trans,SPP1+MAM+,1.55E-06,1.50E-05,1.50E-06,****,Wilcoxon
+15,JDP2(-),liver,value,SPP1+MAM-,SPP1+MAM+,8.92E-09,1.30E-07,8.90E-09,****,Wilcoxon
+16,CEBPD(-),liver,value,SPP1+MAM-,SPP1+MAM+,8.16E-09,1.30E-07,8.20E-09,****,Wilcoxon
+17,KLF3(-),liver,value,SPP1+MAM-,SPP1+MAM+,6.95E-11,1.20E-09,6.90E-11,****,Wilcoxon
+18,JDP2(-),kidney,value,SPP1+MAM-,SPP1+MAM+,3.14E-14,5.70E-13,3.10E-14,****,Wilcoxon
+19,JDP2(-),lung,value,Homeostatic,SPP1+MAM-,1.70E-14,3.20E-13,1.70E-14,****,Wilcoxon
+20,CEBPD(-),lung,value,Homeostatic,SPP1+MAM-,7.41E-16,1.50E-14,7.40E-16,****,Wilcoxon
+21,CEBPD(-),kidney,value,Homeostatic,SPP1+MAM-,2.77E-17,5.80E-16,< 2e-16,****,Wilcoxon
+22,CEBPD(-),liver,value,Trans,SPP1+MAM+,1.32E-17,2.90E-16,< 2e-16,****,Wilcoxon
+23,KLF3(-),heart,value,Homeostatic,Trans,1.12E-17,2.60E-16,< 2e-16,****,Wilcoxon
+24,CEBPD(-),kidney,value,Trans,SPP1+MAM+,1.20E-18,2.90E-17,< 2e-16,****,Wilcoxon
+25,JDP2(-),liver,value,Trans,SPP1+MAM+,6.43E-19,1.60E-17,< 2e-16,****,Wilcoxon
+26,JDP2(-),endo,value,SPP1+MAM-,SPP1+MAM+,3.27E-19,8.50E-18,< 2e-16,****,Wilcoxon
+27,KLF3(-),liver,value,Trans,SPP1+MAM+,2.80E-19,7.60E-18,< 2e-16,****,Wilcoxon
+28,KLF3(-),liver,value,Homeostatic,SPP1+MAM+,2.13E-19,6.00E-18,< 2e-16,****,Wilcoxon
+29,CEBPD(-),skin,value,Homeostatic,Trans,1.48E-19,4.30E-18,< 2e-16,****,Wilcoxon
+30,KLF3(-),skin,value,Homeostatic,Trans,1.40E-19,4.20E-18,< 2e-16,****,Wilcoxon
+31,CEBPD(-),liver,value,Homeostatic,SPP1+MAM+,1.09E-19,3.40E-18,< 2e-16,****,Wilcoxon
+32,CEBPD(-),endo,value,SPP1+MAM-,SPP1+MAM+,9.59E-20,3.10E-18,< 2e-16,****,Wilcoxon
+33,JDP2(-),liver,value,Homeostatic,SPP1+MAM+,5.44E-20,1.80E-18,< 2e-16,****,Wilcoxon
+34,CEBPD(-),lung,value,SPP1+MAM-,SPP1+MAM+,5.03E-23,1.70E-21,< 2e-16,****,Wilcoxon
+35,CEBPD(-),skin,value,Homeostatic,SPP1+MAM-,5.64E-24,2.00E-22,< 2e-16,****,Wilcoxon
+36,JDP2(-),endo,value,Homeostatic,Trans,1.01E-24,3.60E-23,< 2e-16,****,Wilcoxon
+37,CEBPD(-),kidney,value,SPP1+MAM-,SPP1+MAM+,6.22E-29,2.30E-27,< 2e-16,****,Wilcoxon
+38,KLF3(-),skin,value,Homeostatic,SPP1+MAM-,4.96E-31,1.90E-29,< 2e-16,****,Wilcoxon
+39,CEBPD(-),endo,value,Homeostatic,Trans,1.48E-32,5.80E-31,< 2e-16,****,Wilcoxon
+40,KLF3(-),kidney,value,SPP1+MAM-,SPP1+MAM+,2.06E-34,8.20E-33,< 2e-16,****,Wilcoxon
+41,KLF3(-),lung,value,SPP1+MAM-,SPP1+MAM+,4.75E-36,1.90E-34,< 2e-16,****,Wilcoxon
+42,JDP2(-),endo,value,Trans,SPP1+MAM+,8.09E-38,3.40E-36,< 2e-16,****,Wilcoxon
+43,KLF3(-),endo,value,SPP1+MAM-,SPP1+MAM+,2.15E-38,9.30E-37,< 2e-16,****,Wilcoxon
+44,CEBPD(-),skin,value,Trans,SPP1+MAM-,1.05E-38,4.60E-37,< 2e-16,****,Wilcoxon
+45,JDP2(-),kidney,value,Homeostatic,SPP1+MAM+,1.04E-39,4.70E-38,< 2e-16,****,Wilcoxon
+46,KLF3(-),kidney,value,Homeostatic,Trans,3.82E-40,1.80E-38,< 2e-16,****,Wilcoxon
+47,JDP2(-),endo,value,Homeostatic,SPP1+MAM+,1.56E-41,7.30E-40,< 2e-16,****,Wilcoxon
+48,CEBPD(-),endo,value,Trans,SPP1+MAM+,1.30E-41,6.20E-40,< 2e-16,****,Wilcoxon
+49,CEBPD(-),kidney,value,Homeostatic,SPP1+MAM+,1.05E-42,5.20E-41,< 2e-16,****,Wilcoxon
+50,KLF3(-),endo,value,Homeostatic,SPP1+MAM+,5.62E-43,2.80E-41,< 2e-16,****,Wilcoxon
+51,CEBPD(-),lung,value,Homeostatic,SPP1+MAM+,2.18E-43,1.10E-41,< 2e-16,****,Wilcoxon
+52,JDP2(-),endo,value,Trans,SPP1+MAM-,1.53E-43,8.00E-42,< 2e-16,****,Wilcoxon
+53,CEBPD(-),endo,value,Trans,SPP1+MAM-,1.37E-43,7.30E-42,< 2e-16,****,Wilcoxon
+54,KLF3(-),lung,value,Homeostatic,SPP1+MAM-,2.91E-45,1.60E-43,< 2e-16,****,Wilcoxon
+55,KLF3(-),skin,value,Trans,SPP1+MAM-,6.29E-47,3.50E-45,< 2e-16,****,Wilcoxon
+56,CEBPD(-),endo,value,Homeostatic,SPP1+MAM+,1.11E-48,6.20E-47,< 2e-16,****,Wilcoxon
+57,JDP2(-),skin,value,Homeostatic,SPP1+MAM-,7.90E-49,4.50E-47,< 2e-16,****,Wilcoxon
+58,KLF3(-),kidney,value,Trans,SPP1+MAM-,3.71E-50,2.20E-48,< 2e-16,****,Wilcoxon
+59,JDP2(-),skin,value,Trans,SPP1+MAM-,1.98E-51,1.20E-49,< 2e-16,****,Wilcoxon
+60,KLF3(-),kidney,value,Trans,SPP1+MAM+,1.92E-51,1.20E-49,< 2e-16,****,Wilcoxon
+61,KLF3(-),kidney,value,Homeostatic,SPP1+MAM+,3.66E-52,2.20E-50,< 2e-16,****,Wilcoxon
+62,JDP2(-),endo,value,Homeostatic,SPP1+MAM-,8.24E-57,5.10E-55,< 2e-16,****,Wilcoxon
+63,KLF3(-),endo,value,Homeostatic,Trans,1.50E-61,9.40E-60,< 2e-16,****,Wilcoxon
+64,CEBPD(-),liver,value,Trans,SPP1+MAM-,5.06E-62,3.20E-60,< 2e-16,****,Wilcoxon
+65,CEBPD(-),kidney,value,Trans,SPP1+MAM-,1.14E-62,7.40E-61,< 2e-16,****,Wilcoxon
+66,JDP2(-),kidney,value,Trans,SPP1+MAM-,9.68E-66,6.40E-64,< 2e-16,****,Wilcoxon
+67,CEBPD(-),endo,value,Homeostatic,SPP1+MAM-,4.26E-67,2.90E-65,< 2e-16,****,Wilcoxon
+68,KLF3(-),endo,value,Trans,SPP1+MAM+,2.51E-74,1.70E-72,< 2e-16,****,Wilcoxon
+69,JDP2(-),lung,value,SPP1+MAM-,SPP1+MAM+,8.32E-75,5.70E-73,< 2e-16,****,Wilcoxon
+70,KLF3(-),liver,value,Trans,SPP1+MAM-,9.36E-80,6.50E-78,< 2e-16,****,Wilcoxon
+71,JDP2(-),lung,value,Trans,SPP1+MAM-,3.48E-81,2.50E-79,< 2e-16,****,Wilcoxon
+72,JDP2(-),heart,value,SPP1+MAM-,SPP1+MAM+,2.87E-81,2.10E-79,< 2e-16,****,Wilcoxon
+73,KLF3(-),lung,value,Homeostatic,SPP1+MAM+,1.04E-83,7.60E-82,< 2e-16,****,Wilcoxon
+74,KLF3(-),kidney,value,Homeostatic,SPP1+MAM-,5.78E-84,4.30E-82,< 2e-16,****,Wilcoxon
+75,JDP2(-),heart,value,Homeostatic,Trans,1.26E-86,9.40E-85,< 2e-16,****,Wilcoxon
+76,KLF3(-),liver,value,Homeostatic,SPP1+MAM-,7.72E-89,5.90E-87,< 2e-16,****,Wilcoxon
+77,JDP2(-),lung,value,Homeostatic,Trans,3.86E-89,3.00E-87,< 2e-16,****,Wilcoxon
+78,CEBPD(-),heart,value,SPP1+MAM-,SPP1+MAM+,2.37E-95,1.90E-93,< 2e-16,****,Wilcoxon
+79,JDP2(-),kidney,value,Homeostatic,SPP1+MAM-,6.86E-99,5.40E-97,< 2e-16,****,Wilcoxon
+80,JDP2(-),liver,value,Trans,SPP1+MAM-,7.18E-102,5.70E-100,< 2e-16,****,Wilcoxon
+81,CEBPD(-),lung,value,Trans,SPP1+MAM+,6.25E-107,5.10E-105,< 2e-16,****,Wilcoxon
+82,KLF3(-),endo,value,Trans,SPP1+MAM-,6.21E-108,5.10E-106,< 2e-16,****,Wilcoxon
+83,KLF3(-),heart,value,SPP1+MAM-,SPP1+MAM+,2.24E-111,1.90E-109,< 2e-16,****,Wilcoxon
+84,JDP2(-),lung,value,Homeostatic,SPP1+MAM+,2.69E-119,2.30E-117,< 2e-16,****,Wilcoxon
+85,KLF3(-),lung,value,Trans,SPP1+MAM+,1.74E-122,1.50E-120,< 2e-16,****,Wilcoxon
+86,CEBPD(-),liver,value,Homeostatic,SPP1+MAM-,8.12E-124,7.00E-122,< 2e-16,****,Wilcoxon
+87,CEBPD(-),kidney,value,Homeostatic,Trans,4.31E-130,3.80E-128,< 2e-16,****,Wilcoxon
+88,KLF3(-),lung,value,Homeostatic,Trans,1.10E-144,9.70E-143,< 2e-16,****,Wilcoxon
+89,JDP2(-),liver,value,Homeostatic,SPP1+MAM-,7.48E-154,6.70E-152,< 2e-16,****,Wilcoxon
+90,JDP2(-),lung,value,Trans,SPP1+MAM+,9.96E-155,9.00E-153,< 2e-16,****,Wilcoxon
+91,CEBPD(-),lung,value,Trans,SPP1+MAM-,5.75E-165,5.20E-163,< 2e-16,****,Wilcoxon
+92,CEBPD(-),liver,value,Homeostatic,Trans,3.35E-169,3.10E-167,< 2e-16,****,Wilcoxon
+93,KLF3(-),lung,value,Trans,SPP1+MAM-,1.03E-170,9.60E-169,< 2e-16,****,Wilcoxon
+94,JDP2(-),liver,value,Homeostatic,Trans,7.50E-177,7.10E-175,< 2e-16,****,Wilcoxon
+95,CEBPD(-),lung,value,Homeostatic,Trans,2.70E-183,2.60E-181,< 2e-16,****,Wilcoxon
+96,JDP2(-),heart,value,Trans,SPP1+MAM+,3.21E-192,3.10E-190,< 2e-16,****,Wilcoxon
+97,KLF3(-),heart,value,Homeostatic,SPP1+MAM+,9.61E-202,9.30E-200,< 2e-16,****,Wilcoxon
+98,CEBPD(-),heart,value,Homeostatic,SPP1+MAM+,3.63E-207,3.60E-205,< 2e-16,****,Wilcoxon
+99,JDP2(-),heart,value,Homeostatic,SPP1+MAM+,8.44E-208,8.40E-206,< 2e-16,****,Wilcoxon
+100,CEBPD(-),heart,value,Trans,SPP1+MAM+,2.85E-215,2.90E-213,< 2e-16,****,Wilcoxon
+101,KLF3(-),heart,value,Trans,SPP1+MAM+,6.44E-216,6.50E-214,< 2e-16,****,Wilcoxon
+102,JDP2(-),kidney,value,Homeostatic,Trans,2.26E-260,2.30E-258,< 2e-16,****,Wilcoxon
+103,JDP2(-),heart,value,Homeostatic,SPP1+MAM-,0,0,< 2e-16,****,Wilcoxon
+104,JDP2(-),heart,value,Trans,SPP1+MAM-,0,0,< 2e-16,****,Wilcoxon
+105,KLF3(-),heart,value,Homeostatic,SPP1+MAM-,0,0,< 2e-16,****,Wilcoxon
+106,KLF3(-),heart,value,Trans,SPP1+MAM-,0,0,< 2e-16,****,Wilcoxon
+107,CEBPD(-),heart,value,Homeostatic,SPP1+MAM-,0,0,< 2e-16,****,Wilcoxon
+108,CEBPD(-),heart,value,Trans,SPP1+MAM-,0,0,< 2e-16,****,Wilcoxon
